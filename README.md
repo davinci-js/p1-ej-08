@@ -14,7 +14,7 @@ Se desconoce la cantidad de notas
 ## Entrega
 
 - Clonar este repositorio localmente
-- Crear un repositorio personal con el nombre `dw-p1-03`
+- Crear un repositorio personal con el nombre `dw-p1-08`
 - Modificar este `README.md` con este contenido:
 
 ```markdown
