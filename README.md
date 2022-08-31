@@ -2,14 +2,11 @@
 
 ## Consigna
 
-1- Ingresar y mostrar las notas de una comision, calcular e informar:
+1- Hay un boton "Calcular impuesto". Al clickearlo:
 
-  - El promedio de los alumnos desaprobados (notas < 4)
-  - El promedio de los alumnos aprobados (notas >= 4)
-  - El promedio de los alumnos promocionados (notas >= 7, tambien cuentan como aprobados)
-  - La minima y maxima nota ingresada
-
-Se desconoce la cantidad de notas
+  - Se le debe pedir al usuario el precio de un producto
+  - Se le debe pedir el IVA (0-100%) pero por defecto es 21%
+  - Se deben pasar estos valores a una funcion que retorne un string con el formato: `Precio: valor - IVA: iva% - Total: precio+iva`
 
 ## Entrega
 
